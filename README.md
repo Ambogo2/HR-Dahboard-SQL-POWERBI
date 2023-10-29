@@ -17,5 +17,14 @@ Tool used for Visualization - PowerBI
 9. What is the distribution of employees across locations by city and state?
 10. How has the employee's cout changed over time based on hire and term dates?
 11. What is the tenure distribution for each department?
+
+# Insights
+* The Male employees are  many compared to Female and Non-conforming gender
+* The number of people working from the Headquaters are ore than those working remotely
+* The average years an employee stays at the company is 10 years
+* Ohio state has more employees
+* There are more white employees compared to other races
   
+
+
   
