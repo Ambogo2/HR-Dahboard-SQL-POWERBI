@@ -1,9 +1,9 @@
 # HR-Dahboard-SQL-POWERBI
 ![Alt Text](https://github.com/Ambogo2/HR-Dahboard-SQL-POWERBI/blob/main/HR%20png.png)
 # Data
-The data had a total of 22000 rows
-Tools used for cleaning and analysis - PostgreSQL
-Tool used for Visualization - PowerBI
+* The data had a total of 22000 rows
+* **Tools used for cleaning and analysis** - PostgreSQL
+* **Tool used for Visualization** - PowerBI
 
 # Analysis Questions
 1. What is the employee count by gender?
