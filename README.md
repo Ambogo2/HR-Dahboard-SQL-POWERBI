@@ -1,4 +1,4 @@
-# HR-Dahboard-SQL-POWERBI
+# HR-Dashboard-SQL-POWERBI
 ![Alt Text](https://github.com/Ambogo2/HR-Dahboard-SQL-POWERBI/blob/main/HR%20png.png)
 # Data
 * The data had a total of 22000 rows
