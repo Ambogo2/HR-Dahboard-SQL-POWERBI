@@ -1,6 +1,7 @@
 # HR-Dashboard-SQL-POWERBI
-![Alt Text](https://github.com/Ambogo2/HR-Dahboard-SQL-POWERBI/blob/main/HR%20png.png)
 ![Alt Text](https://github.com/Ambogo2/HR-Dashboard-SQL-POWERBI/blob/main/hr.png)
+![Alt Text](https://github.com/Ambogo2/HR-Dashboard-SQL-POWERBI/blob/main/hr2.png)
+
 # Data
 * The data had a total of 22000 rows
 * **Tools used for cleaning and analysis** - PostgreSQL
